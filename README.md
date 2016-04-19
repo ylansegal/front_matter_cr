@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/takaishi/front_matter_cr.svg?branch=master)](https://travis-ci.org/takaishi/front_matter_cr)
 
-FrontMatter Parse Library. It can parse yaml or toml.
+Extract to FrontMatter. Now support yaml or toml.
 
 ## Installation
 
