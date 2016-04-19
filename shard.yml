@@ -1,0 +1,13 @@
+name: front_matter
+version: 0.1.0
+
+authors:
+  - Ryo TAKAISHI <ryo.takaishi.0@gmai.com>
+
+license: MIT
+dependencies:
+  toml:
+    github: manastech/crystal-toml
+  spec2:
+    github: waterlink/spec2.cr
+    version: ~> 0.7.1
