@@ -1,6 +1,8 @@
 # front_matter_cr
 
-TODO: Write a description here
+[![Build Status](https://travis-ci.org/takaishi/front_matter_cr.svg?branch=master)](https://travis-ci.org/takaishi/front_matter_cr)
+
+FrontMatter Parse Library. It can parse yaml or toml.
 
 ## Installation
 
@@ -24,9 +26,6 @@ require "front_matter"
 file = File.open("/path/to/file")
 front_matter, content = FrontMatter.extract(file)
 ```
-
-
-TODO: Write usage instructions here
 
 ## Development
 
