@@ -8,6 +8,8 @@ license: MIT
 dependencies:
   toml:
     github: manastech/crystal-toml
+
+development_dependencies:
   spec2:
     github: waterlink/spec2.cr
-    version: ~> 0.7.1
+    commit: eef5144d86f3aadf95811ffc0450be389db36fed
